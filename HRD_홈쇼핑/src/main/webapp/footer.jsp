@@ -8,7 +8,7 @@
 </head>
 <body>
 	<footer>
-		HRDKOREA Copyright &copy; 2016 All right reserved. Human resources Development Service of Korea. 
+		HRDKOREA Copyright &copy; 2016 All right reserved. Human Resources Development Service of Korea.
 	</footer>
 </body>
 </html>
